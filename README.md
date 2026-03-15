@@ -1,5 +1,7 @@
 # Awesome Tools
 
+[![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 Eine kuratierte Sammlung nützlicher Tools und Ressourcen.
 
 ## Kategorien
