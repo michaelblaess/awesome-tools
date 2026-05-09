@@ -1,5 +1,7 @@
 # KI-Tools
 
+[English](ai-tools.md) | [Deutsch](ai-tools.de.md)
+
 Künstliche Intelligenz & Machine Learning Tools.
 
 | Name | Beschreibung |

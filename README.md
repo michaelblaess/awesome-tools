@@ -1,17 +1,20 @@
 # Awesome Tools
 
+[English](README.md) | [Deutsch](README.de.md)
+
 [![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Eine kuratierte Sammlung nützlicher Tools und Ressourcen.
+A curated collection of useful tools and resources.
 
-## Kategorien
+## Categories
 
-- [Windows-Tools](windows-tools.md) - Nützliche Windows-Anwendungen
-- [KI-Tools](ki-tools.md) - Künstliche Intelligenz & Machine Learning
-- [Datenbank-Tools](datenbank-tools.md) - Datenbankverwaltung & -entwicklung
-- [Entwicklungstools](entwicklungstools.md) - Software-Entwicklung & Programmierung
-- [Browser-Extensions](browser-extensions.md) - Erweiterungen für Webbrowser
+- [Windows Tools](windows-tools.md) - Useful Windows applications
+- [AI Tools](ai-tools.md) - Artificial Intelligence & Machine Learning
+- [Database Tools](database-tools.md) - Database administration & development
+- [Development Tools](development-tools.md) - Software development & programming
+- [CLI Tools](cli-tools.md) - Terminal applications & TUI frameworks
+- [Browser Extensions](browser-extensions.md) - Extensions for web browsers
 
-## Beitragen
+## Contributing
 
-Diese Liste wird kontinuierlich erweitert. Neue Tools können jederzeit hinzugefügt werden.
+This list is continuously expanding. New tools can be added at any time.
