@@ -39,4 +39,5 @@ Terminal applications, shell tools, and libraries for building TUIs (Text User I
 | Name | Description |
 |------|-------------|
 | [Awesome Textualize Projects](https://oleksis.github.io/awesome-textualize-projects/) | Curated list of apps and libraries from the Textual/Rich ecosystem |
+| [Terminal Trove](https://terminaltrove.com/) | Curated catalog of terminal tools, TUIs and CLI apps - browsable by category with screenshots and a "Tool of the Week" |
 | [Transcendent Textual](https://github.com/davep/transcendent-textual) | Collection of experimental Textual apps by Dave Pearson - a great source of ideas |
