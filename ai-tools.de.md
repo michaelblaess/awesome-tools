@@ -7,6 +7,7 @@ Künstliche Intelligenz & Machine Learning Tools.
 | Name | Beschreibung |
 |------|--------------|
 | [Claude](https://claude.ai/) | Bestes KI-Tool überhaupt - von Anthropic |
+| [CommonForms](https://github.com/jbarrow/commonforms) | Erkennt automatisch Formularfelder in PDFs und macht sie ausfüllbar - Deep Learning (FFDNet) per Python-CLI |
 | [Google AI Studio](https://aistudio.google.com/) | Rapid Prototyping mit Google Gemini |
 | [Google Stitch](https://stitch.withgoogle.com/) | KI-Design-Tool - für Designs einfach richtig gut |
 | [LM Studio](https://lmstudio.ai/) | Lokale LLMs einfach ausführen - keine Cloud nötig |

@@ -7,6 +7,7 @@ Artificial Intelligence & Machine Learning tools.
 | Name | Description |
 |------|-------------|
 | [Claude](https://claude.ai/) | The best AI tool overall - by Anthropic |
+| [CommonForms](https://github.com/jbarrow/commonforms) | Auto-detects form fields in PDFs and converts them into fillable forms - deep learning (FFDNet) via Python CLI |
 | [Google AI Studio](https://aistudio.google.com/) | Rapid prototyping with Google Gemini |
 | [Google Stitch](https://stitch.withgoogle.com/) | AI design tool - exceptionally good for design work |
 | [LM Studio](https://lmstudio.ai/) | Run local LLMs easily - no cloud required |
