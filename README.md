@@ -1,6 +1,11 @@
 # Awesome Tools
 
-[English](README.md) | [Deutsch](README.de.md)
+<p align="center">
+  <img src="docs/flags/gb.svg" height="13" alt=""> <b>English</b> ·
+  <img src="docs/flags/de.svg" height="13" alt=""> <a href="README.de.md">Deutsch</a>
+</p>
+
+---
 
 [![Stars](https://img.shields.io/github/stars/michaelblaess/awesome-tools?logo=github&logoColor=white&color=fbbf24)](https://github.com/michaelblaess/awesome-tools/stargazers)
 [![Forks](https://img.shields.io/github/forks/michaelblaess/awesome-tools?logo=github&logoColor=white&color=34d399)](https://github.com/michaelblaess/awesome-tools/network/members)
