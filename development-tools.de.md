@@ -14,9 +14,11 @@ Software-Entwicklung & Programmierung.
 | [ILSpy](https://github.com/icsharpcode/ILSpy) | Open-Source .NET-Assembly-Browser und Decompiler vom SharpDevelop-Team |
 | [Jexus Manager](https://github.com/jexuswebserver/JexusManager) | Open-Source IIS-Manager - endlich eine grafische Oberfläche für IIS Express |
 | [MailHog](https://github.com/mailhog/mailhog) | Lokaler SMTP-Testserver mit Web-UI - fängt ausgehende Mails ab statt sie zu versenden |
+| [Nuitka](https://nuitka.net/) | Python-Compiler - übersetzt Python in nativen C-Code und erzeugt eigenständige Executables, die ohne Python-Installation laufen |
 | [NVDA](https://www.nvaccess.org/) | Kostenloser Open-Source Screen Reader - unverzichtbar für Accessibility-Testing |
 | [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - mehrere Node.js-Versionen pro Shell installieren und wechseln (Unix/macOS; für Windows siehe [nvm-windows](https://github.com/coreybutler/nvm-windows)) |
 | [ReSharper](https://www.jetbrains.com/resharper/) | Must-Have Extension für Visual Studio - Code-Analyse, Refactoring, Navigation |
 | [Rider](https://www.jetbrains.com/rider/) | Plattformübergreifende .NET-IDE von JetBrains - die moderne Alternative zu Visual Studio |
+| [Ruff](https://docs.astral.sh/ruff/) | Extrem schneller Python-Linter und -Formatter in Rust - ersetzt Black, isort und flake8 in einem einzigen Tool |
 | [WinMerge](https://winmerge.org/) | Kostenloses Open-Source Diff- und Merge-Tool - solide Budget-Alternative zu Beyond Compare |
 | [Yaak](https://yaak.app/) | Postman-Alternative vom Insomnia-Gründer - neuer als Bruno, moderne UI, Plugin-System, ebenfalls lokal-first |
