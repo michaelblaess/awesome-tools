@@ -12,6 +12,13 @@ Terminal-Anwendungen, Shell-Tools und Bibliotheken zum Bau von TUIs (Text User I
 | [Starship](https://starship.rs/) | Minimaler, blitzschneller Cross-Shell Prompt in Rust - eine Binary, läuft in jeder Shell |
 | [Windows Terminal](https://github.com/microsoft/terminal) | Modernes Terminal von Microsoft - Tabs, mehrere Shells, GPU-Rendering, Themes |
 
+## HTTP & API
+
+| Name | Beschreibung |
+|------|--------------|
+| [curl](https://curl.se/) | Der universelle Kommandozeilen-HTTP-Client - überträgt Daten zu und von nahezu jedem Protokoll (HTTP, FTP, IMAP, ...). Das Schweizer Taschenmesser für APIs, Downloads, Health-Checks und OIDC-Token-Exchanges |
+| [jq](https://jqlang.github.io/jq/) | JSON-Prozessor für die Kommandozeile - filtert, transformiert und extrahiert Felder aus JSON, der natürliche curl-Begleiter in der Pipe |
+
 ## Frameworks & Bibliotheken
 
 | Name | Beschreibung |

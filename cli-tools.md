@@ -12,6 +12,13 @@ Terminal applications, shell tools, and libraries for building TUIs (Text User I
 | [Starship](https://starship.rs/) | Minimal, blazing-fast cross-shell prompt written in Rust - single binary, works in any shell |
 | [Windows Terminal](https://github.com/microsoft/terminal) | Microsoft's modern terminal emulator - tabs, multiple shells, GPU-accelerated rendering, themable |
 
+## HTTP & API
+
+| Name | Description |
+|------|-------------|
+| [curl](https://curl.se/) | The universal command-line HTTP client - transfers data to and from almost any protocol (HTTP, FTP, IMAP, ...). The Swiss-army knife for APIs, downloads, health checks and OIDC token exchanges |
+| [jq](https://jqlang.github.io/jq/) | Command-line JSON processor - filter, transform and extract fields from JSON, the natural companion to curl in a pipe |
+
 ## Frameworks & Libraries
 
 | Name | Description |
