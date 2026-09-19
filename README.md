@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="docs/banner.jpg" alt="Awesome Tools - retro computer workbench" width="100%">
+</p>
+
 [![Stars](https://img.shields.io/github/stars/michaelblaess/awesome-tools?logo=github&logoColor=white&color=fbbf24)](https://github.com/michaelblaess/awesome-tools/stargazers)
 [![Forks](https://img.shields.io/github/forks/michaelblaess/awesome-tools?logo=github&logoColor=white&color=34d399)](https://github.com/michaelblaess/awesome-tools/network/members)
 [![Issues](https://img.shields.io/github/issues/michaelblaess/awesome-tools?logo=github&logoColor=white&color=f87171)](https://github.com/michaelblaess/awesome-tools/issues)
