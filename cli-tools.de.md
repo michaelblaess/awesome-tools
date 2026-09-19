@@ -8,6 +8,7 @@ Terminal-Anwendungen, Shell-Tools und Bibliotheken zum Bau von TUIs (Text User I
 
 | Name | Beschreibung |
 |------|--------------|
+| [Neovim](https://neovim.io/) | Moderner Vim-Fork - Konfiguration in Lua, eingebauter LSP-Client und Tree-sitter, riesiges Plugin-Ökosystem, läuft in jedem Terminal |
 | [Oh My Posh](https://ohmyposh.dev/) | Cross-Shell Prompt mit Theme-Engine - kommt ursprünglich aus der PowerShell-Welt, mittlerweile plattformübergreifend mit riesiger Theme-Bibliothek |
 | [Starship](https://starship.rs/) | Minimaler, blitzschneller Cross-Shell Prompt in Rust - eine Binary, läuft in jeder Shell |
 | [Windows Terminal](https://github.com/microsoft/terminal) | Modernes Terminal von Microsoft - Tabs, mehrere Shells, GPU-Rendering, Themes |

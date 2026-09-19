@@ -10,6 +10,7 @@ Nützliche Anwendungen für Windows.
 | [Docker Desktop](https://www.docker.com/products/docker-desktop/) | Container-Plattform für Windows - unverzichtbar für moderne Entwicklung |
 | [Greenshot](https://getgreenshot.org/) | Leichtgewichtiges Screenshot-Tool mit Editor und direktem Upload |
 | [KeePass](https://keepass.info/) | Open-Source Passwort-Manager mit lokaler Datenbank |
+| [NAPS2](https://www.naps2.com/) | Kostenlose Open-Source Scan-Software - scannt über WIA oder TWAIN (Flachbett, Einzug, Duplex), OCR in über 100 Sprachen, speichert durchsuchbare PDFs - ersetzt Acrobat beim Einscannen |
 | [RustDesk](https://rustdesk.com/) | Kostenlose Open-Source Alternative zu TeamViewer für Remote-Desktop |
 | [TreeSize](https://www.jam-software.de/treesize) | Visualisiert Festplattenbelegung - findet schnell Speicherfresser auf jedem Laufwerk |
 | [VirtualBox](https://www.virtualbox.org/) | Kostenlose Open-Source Virtualisierungsplattform - solide Alternative zu VMware Workstation |

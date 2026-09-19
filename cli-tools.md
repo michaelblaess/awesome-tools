@@ -8,6 +8,7 @@ Terminal applications, shell tools, and libraries for building TUIs (Text User I
 
 | Name | Description |
 |------|-------------|
+| [Neovim](https://neovim.io/) | Modern Vim fork - Lua configuration, built-in LSP client and Tree-sitter, huge plugin ecosystem, runs in any terminal |
 | [Oh My Posh](https://ohmyposh.dev/) | Cross-shell prompt with theme engine - originated in the PowerShell world, now cross-platform with a huge theme library |
 | [Starship](https://starship.rs/) | Minimal, blazing-fast cross-shell prompt written in Rust - single binary, works in any shell |
 | [Windows Terminal](https://github.com/microsoft/terminal) | Microsoft's modern terminal emulator - tabs, multiple shells, GPU-accelerated rendering, themable |
