@@ -8,6 +8,7 @@ Sources for music, graphics and sounds to use in your own projects and videos. T
 |------|-------------|
 | [ambientCG](https://ambientcg.com/) | PBR materials and 3D models - all CC0, commercial use allowed, no attribution required |
 | [Freesound](https://freesound.org/) | Collaborative database of sound effects, samples and recordings. License per sound: CC0, CC-BY or CC-BY-NC - the latter rules out commercial use |
+| [Game-icons.net](https://game-icons.net/) | Icons for games and interfaces under CC-BY, some in the public domain - commercial use allowed, the authors must be credited |
 | [Incompetech](https://incompetech.com/music/royalty-free/) | Music by Kevin MacLeod under CC-BY 4.0 - attribution required, in return allowed in monetized YouTube videos as well |
 | [Kenney](https://kenney.nl/) | Game assets - 2D, 3D, UI elements and sounds. All CC0, no attribution required |
 | [OpenGameArt](https://opengameart.org/) | Free game assets - sprites, tilesets, 3D models, music and sound effects. License per asset: CC0, CC-BY, CC-BY-SA, OGA-BY or GPL, all but CC0 require attribution |
@@ -15,3 +16,4 @@ Sources for music, graphics and sounds to use in your own projects and videos. T
 | [Pixabay](https://pixabay.com/) | Images, videos, music and sound effects under the Pixabay Content License - commercial use allowed, no attribution required, no redistribution of the unmodified file. Music with a shield icon is registered with YouTube Content ID and may trigger a claim |
 | [Poly Haven](https://polyhaven.com/) | HDRIs, textures and 3D models - all CC0, commercial use allowed, no attribution required |
 | [Quaternius](https://quaternius.com/) | Low-poly 3D models - all CC0, no attribution required |
+| [YouTube Audio Library](https://www.youtube.com/audiolibrary) | Music and sound effects right inside YouTube Studio - according to YouTube they trigger no Content ID claim, some require attribution in the video description |

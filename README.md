@@ -19,7 +19,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/michaelblaess/awesome-tools?logo=git&logoColor=white&color=3b82f6)](https://github.com/michaelblaess/awesome-tools/commits/main)
 [![License](https://img.shields.io/badge/license-CC0_1.0-3b82f6)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Categories](https://img.shields.io/badge/categories-6-fbbf24)](#categories)
-[![Tools](https://img.shields.io/badge/tools-59-fbbf24)](#categories)
+[![Tools](https://img.shields.io/badge/tools-61-fbbf24)](#categories)
 
 A curated collection of useful tools and resources.
 
